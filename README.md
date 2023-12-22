@@ -1,27 +1,49 @@
-# Angular17FirebaseStorage
+# Angular 17 File Upload to Firebase Storage example
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
+I will show you how to make Angular 17 Firebase Storage: File Upload/Display/Delete Application using `@angular/fire` & `AngularFireStorage`. Files' info will be stored in Firebase Realtime Database.
 
-## Development server
+![angular-17-firebase-storage-file-upload-example](angular-17-firebase-storage-file-upload-example.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+For more detail, please visit:
+> [Angular 17 Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-17-firebase-storage/)
 
-## Code scaffolding
+## More Practice
+> [Angular 17 Firestore CRUD example](https://www.bezkoder.com/angular-17-firestore-crud/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+> [Angular 17 Firebase CRUD example with Realtime DataBase](https://www.bezkoder.com/angular-17-firebase-crud/)
 
-## Build
+> [Angular 17 example: CRUD with Rest API](https://www.bezkoder.com/angular-17-crud-example/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+> [Angular 17 Form Validation example](https://www.bezkoder.com/angular-17-form-validation/)
 
-## Running unit tests
+> [Angular 17 JWT Authentication & Authorization with Rest API](https://www.bezkoder.com/angular-17-jwt-auth/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Fullstack with Node:
+> [Angular 16 + Node Express + MySQL example](https://www.bezkoder.com/angular-16-node-js-express-mysql/)
 
-## Running end-to-end tests
+> [Angular 16 + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-16-node-js-express-postgresql/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+> [Angular 16 + Node Express + MongoDB example](https://www.bezkoder.com/angular-16-node-js-express-mongodb/)
 
-## Further help
+> [Angular 16 + Node Express: File upload example](https://www.bezkoder.com/angular-16-node-express-file-upload/)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Fullstack with Spring Boot:
+
+> [Angular 16 + Spring Boot example](https://www.bezkoder.com/spring-boot-angular-16-crud/)
+
+> [Angular 16 + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-16-mysql/)
+
+> [Angular 16 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-16-postgresql/)
+
+> [Angular 16 + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-16-mongodb/)
+
+> [Angular 16 + Spring Boot: File upload example](https://www.bezkoder.com/angular-16-spring-boot-file-upload/)
+
+Fullstack with Django:
+> [Angular + Django example](https://www.bezkoder.com/django-angular-13-crud-rest-framework/)
+
+> [Angular + Django + MySQL](https://www.bezkoder.com/django-angular-mysql/)
+
+> [Angular + Django + PostgreSQL](https://www.bezkoder.com/django-angular-postgresql/)
+
+> [Angular + Django + MongoDB](https://www.bezkoder.com/django-angular-mongodb/)

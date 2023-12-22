@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'angular-17-firebase-storage';
+  title = 'Angular 17 Firebase Storage example';
 }
